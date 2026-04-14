@@ -134,7 +134,6 @@ int main() {
 
         switch (choix) {
             case 0:
-                // Ici, il faudrait normalement demander le login/mot de passe
                 menuClient();
                 break;
             case 1:
